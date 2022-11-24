@@ -8,7 +8,7 @@ const getHumanResponse = (message) => {
   if (message === "How are you?") {
     return "I am good, thanks!";
   }
-  return "I do not know how to answer!!";
+  return "I do not know how to answer!";
 }
 
 module.exports = {
